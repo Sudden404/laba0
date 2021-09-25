@@ -29,7 +29,7 @@ int main()
 			printf(" remainder of division=%d\n %d\n ", ost, idiot);
 		}
 	}
-	else  printf("How i will calculated words ???\n %d", b);
+	else  printf("How i will calculate words ???\n %d", b);
 	
 	return 0;
 }
